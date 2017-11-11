@@ -1,0 +1,25 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Edvan",
+      "telefone": "99999999",
+      "email": "edvan@fgf.edu.br",
+      "tipo": "Trabalho"
+    },
+    {
+      "id": 2,
+      "nome": "João",
+      "telefone": "159",
+      "email": "joao@gmail.com",
+      "tipo": "Particular"
+    },
+    {
+      "id": 4,
+      "nome": "Ana",
+      "telefone": "159",
+      "email": "ana@gmail.com",
+      "tipo": "Trabalho"
+    }
+  ]
+}
